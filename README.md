@@ -3,7 +3,7 @@
 
 This project is a comprehensive solution for real-time person detection and counting, utilizing the powerful YOLOv8 model, enhanced with Supervision for post-processing and analytics, and providing a user-friendly web interface through Flask.
 
-![demo (4)](https://github.com/user-attachments/assets/946907a4-8e40-405b-bc7c-bfc2b451f98e)
+![demo (3)](https://github.com/user-attachments/assets/3b7cb863-46e1-4ba0-a928-708ec75ad7f9)
 
 ## Documentation
 You can check the YOLOv8 documentation 
