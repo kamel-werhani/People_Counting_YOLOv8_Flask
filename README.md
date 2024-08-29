@@ -27,7 +27,7 @@ $ cd Person-Detection-and-Counting-using-YOLOv8-Supervision-and-Flask
 Install dependencies
 
 ```bash
-$ pip install -r requirement
+$ pip install -r requirements
 ```
 
 Start the server
